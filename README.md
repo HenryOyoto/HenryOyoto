@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Henry Owade  
+# Hi, I'm Henry Owade  
 
-🚀 Engineer | 💻 Web Developer | ⚡ PCB & IoT Specialist | 🎨 Graphics Designer  
+Electronics and Computer Engineer | ⚡ PCB Designer | AutoCAD Electrical Designer  
 
 Welcome to my GitHub!  
 Beyond coding, I use this space as a **portfolio & services hub** where I help clients turn ideas into real-world solutions.  
 
 ---
 
-## 💼 What I Offer (Hire Me!)  
-✅ **Web Development** – Personal portfolios, business websites, dashboards  
+## What I Offer (Hire Me!)  
+
 ✅ **IoT & Embedded Systems** – ESP32, Arduino, Biometric & School Feeding Systems  
 ✅ **PCB Design** – Circuit schematics, PCB layout & prototyping  
-✅ **Graphics Design** – Thumbnails, branding, digital assets  
+✅ 
 
 💡 *Looking for something custom? Let’s work together!*  
 
@@ -25,7 +25,7 @@ Beyond coding, I use this space as a **portfolio & services hub** where I help c
 
 ## 📬 Work With Me  
 - 📧 Email: [oyotohenry2021@gmail.com](mailto:oyotohenry2021@gmail.com)  
-- 💼 LinkedIn: [Henry Owade](https://www.linkedin.com/in/henry-owade)  
+- 💼 LinkedIn: [Henry Owade](https://www.linkedin.com/in/henryowade  
 - 🌍 Portfolio: [Live Site](https://HenryOwade.github.io/my_portfolio/)  
 
 ---
