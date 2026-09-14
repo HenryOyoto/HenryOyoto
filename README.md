@@ -1,18 +1,18 @@
-Hi, I'm Henry Oyoto
+Hi, I'm **Henry Oyoto**
 
-PCB Design | Python Programming | Technical Documentation
+**PCB Design | Python Programming | Technical Documentation**
 
 Welcome to my GitHub.
 
-I’m an Electronics and Computer Engineer working across hardware design, programming, and technical documentation.
+I’m an **Electronics and Computer Engineer** specializing in hardware design, programming, and technical documentation.
 
 I use this space to document my work, share engineering projects, and provide technical services in PCB design, Python programming, and technical documentation.
 
 ---
 
-Services
+**Services**
 
-PCB Design
+**PCB Design**
 - Circuit schematics
 - PCB layout
 - Component placement and routing
@@ -20,14 +20,14 @@ PCB Design
 - Bill of Materials (BOM)
 - Design review and preparation for fabrication
 
-Python Programming
+**Python Programming**
 - Python scripts and small applications
 - Excel and spreadsheet automation
 - Word and PowerPoint document automation
 - Data processing
 - Practical engineering and office automation
 
-Technical Documentation
+**Technical Documentation**
 - Technical reports
 - Project documentation
 - Engineering documentation
@@ -37,20 +37,20 @@ Technical Documentation
 
 ---
 
-Projects
+**Projects**
 
-IoT & Embedded Projects
+**IoT & Embedded Projects**
 Practical projects involving microcontrollers, sensors, data collection, and device control using platforms such as Arduino and ESP32.
 
-PCB Design Projects
+**PCB Design Projects**
 Schematic, PCB layout, 3D board, and electronics design projects.
 
-Python Projects
+**Python Projects**
 Python projects involving automation, data handling, and practical engineering applications.
 
 ---
 
-Portfolio
+**Portfolio**
 
 "Portfolio Website" (https://HenryOyoto.github.io)
 
@@ -58,7 +58,7 @@ Portfolio
 
 ---
 
-Contact
+**Contact**
 
 Email: oyotohenry2021@gmail.com
 
@@ -68,12 +68,13 @@ Portfolio: "Henry Oyoto" (https://HenryOyoto.github.io/my_portfolio/)
 
 ---
 
-Skills
+**Skills**
 
-Programming
+**Programming**
 - Python
+- Github
 
-PCB & Electronics
+**PCB & Electronics**
 - PCB Design
 - Circuit Schematics
 - PCB Layout
@@ -81,7 +82,7 @@ PCB & Electronics
 - ESP32
 - Embedded Systems
 
-Documentation
+**Documentation**
 - Technical Reports
 - Project Documentation
 - Proposals
@@ -91,5 +92,5 @@ Documentation
 
 ---
 
-About This GitHub
+**About This GitHub**
 This profile contains selected engineering projects, technical documentation, experiments, and work related to PCB design, Python programming, and embedded systems.
