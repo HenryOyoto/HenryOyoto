@@ -1,58 +1,95 @@
-# Hi, I'm Henry Owade  
+Hi, I'm Henry Oyoto
 
-Electronics and Computer Engineer | ⚡ PCB Designer | AutoCAD Electrical Designer  
+PCB Design | Python Programming | Technical Documentation
 
-Welcome to my GitHub!  
-Beyond coding, I use this space as a **portfolio & services hub** where I help clients turn ideas into real-world solutions.  
+Welcome to my GitHub.
 
----
+I’m an Electronics and Computer Engineer working across hardware design, programming, and technical documentation.
 
-## What I Offer (Hire Me!)  
-
-✅ **IoT & Embedded Systems** – ESP32, Arduino, Biometric & School Feeding Systems  
-✅ **PCB Design** – Circuit schematics, PCB layout & prototyping  
-✅ 
-
-💡 *Looking for something custom? Let’s work together!*  
+I use this space to document my work, share engineering projects, and provide technical services in PCB design, Python programming, and technical documentation.
 
 ---
 
-## 🌐 Portfolio & Projects  
-👉 [My Portfolio Website](https://HenryOwade.github.io)  
-📂 [GitHub Projects](https://github.com/HenryOwade?tab=repositories)  
+Services
+
+PCB Design
+- Circuit schematics
+- PCB layout
+- Component placement and routing
+- 3D board layouts
+- Bill of Materials (BOM)
+- Design review and preparation for fabrication
+
+Python Programming
+- Python scripts and small applications
+- Excel and spreadsheet automation
+- Word and PowerPoint document automation
+- Data processing
+- Practical engineering and office automation
+
+Technical Documentation
+- Technical reports
+- Project documentation
+- Engineering documentation
+- Proposals
+- System and project descriptions
+- User and technical guides
 
 ---
 
-## 📬 Work With Me  
-- 📧 Email: [oyotohenry2021@gmail.com](mailto:oyotohenry2021@gmail.com)  
-- 💼 LinkedIn: [Henry Owade](https://www.linkedin.com/in/henryowade  
-- 🌍 Portfolio: [Live Site](https://HenryOwade.github.io/my_portfolio/)  
+Projects
+
+IoT & Embedded Projects
+Practical projects involving microcontrollers, sensors, data collection, and device control using platforms such as Arduino and ESP32.
+
+PCB Design Projects
+Schematic, PCB layout, 3D board, and electronics design projects.
+
+Python Projects
+Python projects involving automation, data handling, and practical engineering applications.
 
 ---
 
-## 📈 GitHub Stats  
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryOwade&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryOwade&layout=compact&theme=tokyonight)  
+Portfolio
+
+"Portfolio Website" (https://HenryOyoto.github.io)
+
+"GitHub Projects" (https://github.com/HenryOyoto?tab=repositories)
 
 ---
 
-## 🛠️ Skills & Tools  
-**Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+Contact
 
-**Hardware & Electronics**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
-![PCB Design](https://img.shields.io/badge/PCB%20Design-009688?style=for-the-badge&logo=circuitverse&logoColor=white)  
+Email: oyotohenry2021@gmail.com
 
-**Creative Tools**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+LinkedIn: "Henry Oyoto" (https://www.linkedin.com/in/henryoyoto)
+
+Portfolio: "Henry Oyoto" (https://HenryOyoto.github.io/my_portfolio/)
 
 ---
 
-⭐️ *If you like my work or want to collaborate, don’t hesitate to reach out. Let’s build something amazing together!*
+Skills
+
+Programming
+- Python
+
+PCB & Electronics
+- PCB Design
+- Circuit Schematics
+- PCB Layout
+- Arduino
+- ESP32
+- Embedded Systems
+
+Documentation
+- Technical Reports
+- Project Documentation
+- Proposals
+- Microsoft Word
+- Microsoft PowerPoint
+- Microsoft Excel
+
+---
+
+About This GitHub
+This profile contains selected engineering projects, technical documentation, experiments, and work related to PCB design, Python programming, and embedded systems.
