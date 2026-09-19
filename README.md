@@ -92,4 +92,4 @@ Portfolio: "Henry Oyoto" (https://HenryOyoto.github.io/my_portfolio/)
 ---
 
 **About This GitHub**
-This profile contains selected engineering projects, technical documentation, experiments, and work related to PCB design, Python programming, and embedded systems.
+This profile contains **selected** engineering projects, technical documentation, experiments, and work related to PCB design, Python programming, and embedded systems.
