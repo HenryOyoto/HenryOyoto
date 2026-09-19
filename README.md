@@ -10,7 +10,7 @@ I use this space to document my work, share engineering projects, and provide te
 
 ---
 
-**Services**
+**SERVICES**
 
 **PCB Design**
 - Circuit schematics
@@ -37,7 +37,7 @@ I use this space to document my work, share engineering projects, and provide te
 
 ---
 
-**Projects**
+**PROJECTS**
 
 **IoT & Embedded Projects**
 Practical projects involving microcontrollers, sensors, data collection, and device control using platforms such as Arduino and ESP32.
@@ -50,7 +50,7 @@ Python projects involving automation, data handling, and practical engineering a
 
 ---
 
-**Portfolio**
+**PORTFOLIO**
 
 "Portfolio Website" (https://HenryOyoto.github.io)
 
@@ -58,7 +58,7 @@ Python projects involving automation, data handling, and practical engineering a
 
 ---
 
-**Contact**
+**CONTACT**
 
 Email: oyotohenry2021@gmail.com
 
@@ -68,7 +68,7 @@ Portfolio: "Henry Oyoto" (https://HenryOyoto.github.io/my_portfolio/)
 
 ---
 
-**Skills**
+**SKILLS**
 
 **Programming**
 - Python
