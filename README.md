@@ -6,7 +6,7 @@ Welcome to my GitHub.
 
 I’m an **Electronics and Computer Engineer** specializing in hardware design, programming, and technical documentation.
 
-I use this space to document my work, share engineering projects, and provide technical services in PCB design, Python programming, and technical documentation.
+I use this space to document my work, share engineering projects, and provide technical services in PCB design, Python programming, and technical documentation. I am also excellent at **AutoCAD Design**.
 
 ---
 
@@ -75,9 +75,9 @@ Portfolio: "Henry Oyoto" (https://HenryOyoto.github.io/my_portfolio/)
 - Github
 
 **PCB & Electronics**
-- PCB Design
-- Circuit Schematics
-- PCB Layout
+- PCB Design (KiCAD, EasyEDA, Proteus, Eagle, Altium Designer)
+- PCB Fabrication (Toner Transfer, Etching, Drilling, Micro-soldering, Applying Solder Mask)  
+- Circuit Schematics (Proteus, Multisim, Matlab, KiCad, LTSpice)
 - Arduino
 - ESP32
 - Embedded Systems
