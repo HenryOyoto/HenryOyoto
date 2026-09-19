@@ -74,13 +74,12 @@ Portfolio: "Henry Oyoto" (https://HenryOyoto.github.io/my_portfolio/)
 - Python
 - Github
 
-**PCB & Electronics**
-- PCB Design (KiCAD, EasyEDA, Proteus, Eagle, Altium Designer)
+**PCB, Electronics & Software Design**
+- PCB Design (**KiCad**, EasyEDA, Proteus, Eagle, Altium Designer)
 - PCB Fabrication (Toner Transfer, Etching, Drilling, Micro-soldering, Applying Solder Mask)  
 - Circuit Schematics (Proteus, Multisim, Matlab, KiCad, LTSpice)
-- Arduino
-- ESP32
-- Embedded Systems
+- Embedded Systems (Arduino, ESP32, STM32, Raspberry Pi)
+- **AutoCAD**
 
 **Documentation**
 - Technical Reports
