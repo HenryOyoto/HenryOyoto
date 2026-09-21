@@ -46,7 +46,7 @@ Practical projects involving microcontrollers, sensors, data collection, and dev
 Schematic, PCB layout, 3D board, and electronics design projects.
 
 **Python Projects**
-Python projects involving automation, data handling, and practical engineering applications.
+Python projects involving automation, data handling, scripting, and practical engineering applications.
 
 ---
 
