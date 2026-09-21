@@ -30,9 +30,9 @@ I use this space to document my work, share engineering projects, and provide te
 **Technical Documentation**
 - Technical reports
 - Project documentation
-- Engineering documentation
+- Project presentations
 - Proposals
-- System and project descriptions
+- BOQs and BOMs
 - User and technical guides
 
 ---
