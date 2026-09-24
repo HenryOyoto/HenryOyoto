@@ -25,7 +25,7 @@ I use this space to document my work, share engineering projects, and provide te
 - Excel and spreadsheet automation
 - Word and PowerPoint document automation
 - Data processing
-- Practical engineering and office automation
+- Practical engineering and software development
 
 **Technical Documentation**
 - Technical reports
